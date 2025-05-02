@@ -84,3 +84,4 @@ For answers to common questions about this code of conduct, see the FAQ at [http
 [mozilla coc]: https://github.com/mozilla/diversity
 [faq]: https://www.contributor-covenant.org/faq
 [translations]: https://www.contributor-covenant.org/translations
+http://onixsmart.top:80/get.php?username=Zequiel&password=649884979&type=m3u_plus&output=mpegts
